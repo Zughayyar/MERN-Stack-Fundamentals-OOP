@@ -65,3 +65,5 @@ effect3.play(unit1); // Make an instance of "Pair Programming" and play it on "R
 unit1.attack(unit2); // "Red Belt Ninja" uses the attack method on "Black Belt Ninja"
 
 console.log(unit1, unit2);
+console.table(unit1);
+console.table(unit2);
